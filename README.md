@@ -3,9 +3,9 @@
 ## Student Details
 
 - **Full Name:** Prince Dandge
-- **URN Number:** ADD-YOUR-URN-HERE
+- **URN Number:** E25B031504
 - **Semester:** 3rd
-- **Section:** ADD-YOUR-SECTION-HERE
+- **Section:** B
 - **Subject:** Git and GitHub
 
 ## About This Project
